@@ -4,7 +4,7 @@
 
 ### Information
 
-Version 1.0: Implementation of Algorithm for  Time-aware Influence Minimization in Social Networks. For more details about our code, please read our paper: "Xueqin C., Jiajie F., Qing L., Yunjun G., Baihua Z., Lu C., Time-aware Influence Minimization via Blocking Social Networks"
+Version 1.0: Implementation of Algorithm for  Time-aware Influence Minimization via Blocking Social Networks. For more details about our code, please read our paper: "Xueqin C., Jiajie F., Qing L., Yunjun G., Baihua Z., Lu C., Time-aware Influence Minimization via Blocking Social Networks"
 
 ### Introduction
 
